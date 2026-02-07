@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/felipe-trejos-264186286"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-24292e?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/felipetrejos"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-24292e?style=flat&logo=linkedin&logoColor=white" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://felitrejos.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-24292e?style=flat" /></a>
 </p>
