@@ -19,6 +19,5 @@
 </p>
 
 <p align="center">
-  <sub><b>Product engineering · developer experience · system design</b></sub><br/>
-  <sub>Focused on building maintainable, user-facing systems.</sub>
+  <sub><b>Product engineering · system design</b></sub><br/>
 </p>
