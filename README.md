@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="assets/photo.png"
+    src="IMG_0051.gif"
     width="420"
   />
 </p>
