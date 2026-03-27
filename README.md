@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Computer Engineering student at <b>La Salle Campus BCN</b><br/>
+  Computer Engineering @ <b>La Salle Campus BCN</b><br/>
   Intern @ <b>MongoDB</b>
 </p>
 
