@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="IMG_0051.gif"
+    src="gifs/masayoshi-takanaka-takanaka.gif"
     width="420"
   />
 </p>
